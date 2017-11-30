@@ -2,7 +2,7 @@ import argparse
 
 
 _S = """uid_4\""""
-_R = """uid_4\" elementtiming\=\"hero\""""
+_R = """uid_4\" elementtiming=\"hero\""""
 
 
 class Replacer:
